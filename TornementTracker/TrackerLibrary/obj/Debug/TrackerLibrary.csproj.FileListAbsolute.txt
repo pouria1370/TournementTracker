@@ -1,0 +1,9 @@
+C:\Users\PouriaPC\desktop\TornementTracker\TornementTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\PouriaPC\desktop\TornementTracker\TornementTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\PouriaPC\desktop\TornementTracker\TornementTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\PouriaPC\desktop\TornementTracker\TornementTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PouriaPC\desktop\TornementTracker\TornementTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\PouriaPC\desktop\TornementTracker\TornementTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\PouriaPC\Desktop\TornementTracker\TornementTracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\PouriaPC\Desktop\TornementTracker\TornementTracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\PouriaPC\Desktop\TornementTracker\TornementTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
